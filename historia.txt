@@ -1,4 +1,6 @@
-Este es un archivo de prueba 2 
-felipe
+CONTROL DE VERSION 3
+Este es un archivo de prueba 3
 
-ejercicio para el control de pruebas.
+ESTA ES LA TERCERA ACTUALIZACION DEL ARCHIVO para PODER COMPARAR.
+
+ejercicio para el control de pruebas 3
